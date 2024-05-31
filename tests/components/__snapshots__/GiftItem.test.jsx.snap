@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GiftItem /> should be match with the snapshot 1`] = `
+<div>
+  <img
+    alt="Taylor Swift"
+    height="100"
+    src="https://taylor-swift-1.com/img-1.png"
+    width="100"
+  />
+</div>
+`;
